@@ -12,8 +12,8 @@ const Header = () => {
                 <div className='col-4 text-light p-3 d-flex justify-content-center'>
                     <ul className='nav navbar-nav menu'>
                         <li><a href="/shop">Shop</a></li>
-                        <li><a href="#">Shop 2</a></li>
-                        <li><a href="#">Shop 3</a></li>
+                        <li><a href="/review">Order Review</a></li>
+                        <li><a href="/inventory">Inventory</a></li>
                     </ul>
                 </div>
                 <div className='col-4 p-3 d-flex justify-content-end'>
